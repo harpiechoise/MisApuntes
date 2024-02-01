@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Reinforcement/Ecuación de Bellman.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "895994a623a5d25b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b301f58ee7c6d88c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Reinforcement/Ecuación de Bellman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Reinforcement/Ecuación de Bellman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Reinforcement/Ecuación de Bellman.md"
               }
             }
           }
@@ -162,6 +148,19 @@
   },
   "active": "2cec42b6d216fa40",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Ensemble/Definición de el proceso de aprendizaje estadistico.md",
+    "Reinforcement/Ecuación de Bellman.md",
+    "Reinforcement",
+    "Ensemble/Redes Neuronales/Propagación hacia adelante.md",
+    "Ensemble/Redes Neuronales/Jacobianos y Redes neuronales.md",
+    "Ensemble/Arboles de decisión Categoricos.md",
+    "Ensemble/Clasificador Linear.md",
+    "Ensemble/Redes Neuronales",
+    "Ensemble/Redes Neuronales.md",
+    "Sin título.md",
+    "Pasted image 20240105224458.png",
+    "2024-01-05.md",
+    "Welcome.md",
+    "Ensemble"
   ]
 }
